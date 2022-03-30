@@ -1,6 +1,7 @@
 # PacMan-CS
 
 Projet de Cours
+
 Pour inspecter le code, rendez-vous sur la branche 'master'
 
 Ce projet était un projet libre consistant à créer "n'importe quoi en POO".
